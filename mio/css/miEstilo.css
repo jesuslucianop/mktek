@@ -1,0 +1,15 @@
+#divPagina{
+	margin:10px;
+	min-height:400px;
+}
+
+.error{
+	color:red;
+	font-height:bold;
+}
+
+.divLogin{
+	margin:0 auto;
+	width:500px;
+	margin-top:100px;
+}
